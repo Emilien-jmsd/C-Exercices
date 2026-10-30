@@ -1,0 +1,15 @@
+F:\SLAM\C#\Exercices\Exercice08\Exercice08\obj\Debug\net10.0\Exercice08.GeneratedMSBuildEditorConfig.editorconfig
+F:\SLAM\C#\Exercices\Exercice08\Exercice08\obj\Debug\net10.0\Exercice08.AssemblyInfoInputs.cache
+F:\SLAM\C#\Exercices\Exercice08\Exercice08\obj\Debug\net10.0\Exercice08.AssemblyInfo.cs
+F:\SLAM\C#\Exercices\Exercice08\Exercice08\obj\Debug\net10.0\Exercice08.csproj.CoreCompileInputs.cache
+F:\SLAM\C#\Exercices\Exercice08\Exercice08\bin\Debug\net10.0\Exercice08.exe
+F:\SLAM\C#\Exercices\Exercice08\Exercice08\bin\Debug\net10.0\Exercice08.deps.json
+F:\SLAM\C#\Exercices\Exercice08\Exercice08\bin\Debug\net10.0\Exercice08.runtimeconfig.json
+F:\SLAM\C#\Exercices\Exercice08\Exercice08\bin\Debug\net10.0\Exercice08.dll
+F:\SLAM\C#\Exercices\Exercice08\Exercice08\bin\Debug\net10.0\Exercice08.pdb
+F:\SLAM\C#\Exercices\Exercice08\Exercice08\obj\Debug\net10.0\Exercice08.dll
+F:\SLAM\C#\Exercices\Exercice08\Exercice08\obj\Debug\net10.0\refint\Exercice08.dll
+F:\SLAM\C#\Exercices\Exercice08\Exercice08\obj\Debug\net10.0\Exercice08.pdb
+F:\SLAM\C#\Exercices\Exercice08\Exercice08\obj\Debug\net10.0\Exercice08.genruntimeconfig.cache
+F:\SLAM\C#\Exercices\Exercice08\Exercice08\obj\Debug\net10.0\ref\Exercice08.dll
+F:\SLAM\C#\Exercices\Exercice08\Exercice08\obj\Debug\net10.0\Exercice08.csproj.Up2Date

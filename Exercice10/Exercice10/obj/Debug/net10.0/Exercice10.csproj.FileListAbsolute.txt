@@ -1,0 +1,15 @@
+F:\SLAM\C#\Exercices\Exercice10\Exercice10\bin\Debug\net10.0\Exercice10.exe
+F:\SLAM\C#\Exercices\Exercice10\Exercice10\bin\Debug\net10.0\Exercice10.deps.json
+F:\SLAM\C#\Exercices\Exercice10\Exercice10\bin\Debug\net10.0\Exercice10.runtimeconfig.json
+F:\SLAM\C#\Exercices\Exercice10\Exercice10\bin\Debug\net10.0\Exercice10.dll
+F:\SLAM\C#\Exercices\Exercice10\Exercice10\bin\Debug\net10.0\Exercice10.pdb
+F:\SLAM\C#\Exercices\Exercice10\Exercice10\obj\Debug\net10.0\Exercice10.GeneratedMSBuildEditorConfig.editorconfig
+F:\SLAM\C#\Exercices\Exercice10\Exercice10\obj\Debug\net10.0\Exercice10.AssemblyInfoInputs.cache
+F:\SLAM\C#\Exercices\Exercice10\Exercice10\obj\Debug\net10.0\Exercice10.AssemblyInfo.cs
+F:\SLAM\C#\Exercices\Exercice10\Exercice10\obj\Debug\net10.0\Exercice10.csproj.CoreCompileInputs.cache
+F:\SLAM\C#\Exercices\Exercice10\Exercice10\obj\Debug\net10.0\Exercice10.dll
+F:\SLAM\C#\Exercices\Exercice10\Exercice10\obj\Debug\net10.0\refint\Exercice10.dll
+F:\SLAM\C#\Exercices\Exercice10\Exercice10\obj\Debug\net10.0\Exercice10.pdb
+F:\SLAM\C#\Exercices\Exercice10\Exercice10\obj\Debug\net10.0\Exercice10.genruntimeconfig.cache
+F:\SLAM\C#\Exercices\Exercice10\Exercice10\obj\Debug\net10.0\ref\Exercice10.dll
+F:\SLAM\C#\Exercices\Exercice10\Exercice10\obj\Debug\net10.0\Exercice10.csproj.Up2Date
